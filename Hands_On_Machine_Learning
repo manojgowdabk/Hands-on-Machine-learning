@@ -1,0 +1,62 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNWVr1wsYYLC5gNL+6dv7JF",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/manojgowdabk/Hands-on-Machine-learning/blob/Machine-Learning-V1.0.0/Hands_On_Machine_Learning\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "id": "0mCiS2R2emSj",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "638f42ae-1ffc-4eda-ea18-80e69dcae723"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "hello world, welcome you to machine learning career\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"hello world, welcome you to machine learning career\")"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "wJzAy8qHgRPM"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
